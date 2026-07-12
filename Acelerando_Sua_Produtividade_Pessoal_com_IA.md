@@ -38,7 +38,7 @@ Quero que a IA gere um cronograma dinâmico de planejamento diário e um roteiro
 
 ---
 
-## 🧠 Aprendizados
+## 🧠 Aprendizado
 
 **Substituição de Atividades Administrativas:** A inteligência artificial se provou um excelente catalisador de tempo, absorvendo tarefas repetitivas de redação e organização que afastavam o profissional da sua atividade-fim: vender.
 
